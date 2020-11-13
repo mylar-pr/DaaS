@@ -3,6 +3,10 @@
 # Data as a Service - Serverless - Lambda
 Using AWS serverless architecture with lambda functions and DynamoDB, we illustrate how to expose data as a service using API endpoints.
 
+## Design Specification:
+
+![](images/DesignSpecAss1Part2.png)
+
 ## Requirements:
 
 AWS Amazon Web Services account to deploy and run the pipeline
